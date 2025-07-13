@@ -1,4 +1,4 @@
-# Simple Linear Rgression
+# Simple Linear Regression
 
 This is my first attempt to build a linear regression model from scratch, it was a lot of fun and very helpful since i started to learn Machine Learning (ML), this give me the insight of one of the most essential models in ML.
 
